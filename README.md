@@ -1,8 +1,6 @@
 Country와 함께하는 Git 교실
 
- - master rebase conflict
-
- - feature/c auto merge
+ - new master rebase conflict
 
  git fast fowrard exer conflict test
  fastfoward exer
