@@ -7,3 +7,5 @@ Country와 함께하는 Git 교실
  3way other
  
  rebase test forward
+
+ - master rebase - auto merge
