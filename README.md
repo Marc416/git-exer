@@ -1,5 +1,9 @@
 Country와 함께하는 Git 교실
 
+ - rebase 1.2 fixed
+ - rebase 3
+++++++++++++++++++++++++++++++++
+
  - new master rebase conflict
 
  git fast fowrard exer conflict test
